@@ -12,3 +12,9 @@ class Bear:
 
 bear = Bear()
 ```
+
+## Make friend with a bear
+
+- [x] Born in Russia
+- [ ] Find a bear
+- [ ] Make friend
